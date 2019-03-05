@@ -1,12 +1,12 @@
-# [== Todd Young. Copyright (C) 2019. GPLv3
+# [== {{ cookiecutter.full_name }}. Copyright (C) {{ cookiecutter.year }}. 
 
 
 # [== Project Properties
 cmake_minimum_required(VERSION 3.5 FATAL_ERROR)
-project (torch_pp CXX)
-set (APPLICATION_NAME "Pytorch++")
+project ({{ cookiecutter.repo_name }})
+set (APPLICATION_NAME "{{ cookiecutter.project_name }}")
 set (APPLICATION_CODENAME "${PROJECT_NAME}")
-set (APPLICATION_COPYRIGHT_YEARS "2019")
+set (APPLICATION_COPYRIGHT_YEARS "{{ cookiecutter.year }}")
 set (APPLICATION_VERSION_MAJOR 0)
 set (APPLICATION_VERSION_MINOR 1)
 set (APPLICATION_VERSION_PATCH 0)
