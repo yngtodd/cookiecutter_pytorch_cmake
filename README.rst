@@ -14,6 +14,19 @@ Then, kick off your project with the following:
 
     cookiecutter https://github.com/yngtodd/cookiecutter_pytorch_cmake
 
+Cookiecutter will then help you setup the project:
+
+.. code-block:: console
+
+    full_name [Todd Young]:  
+    email [youngmt1@ornl.gov]: 
+    github_username [yngtodd]: 
+    project_name [Pytorch++]: 
+    repo_name [torch_pp]: 
+    project_short_description [Started kit for Pytorch C++ libraries.]: 
+    year [2019]: 
+    version [0.1.0]: 
+
 Built upon great projects
 -------------------------
 
