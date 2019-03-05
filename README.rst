@@ -7,8 +7,7 @@ This repo is a Cookiecutter template for new Pytorch C++ Projects.
 Usage
 -----
 
-Make sure you have `Cookiecutter`_ installed. Find more about cookiecutter with their `docs`_.
-
+Make sure you have `Cookiecutter`_ installed. Find more about cookiecutter in their `docs`_.
 Then, kick off your project with the following:
 
 .. code-block:: console
