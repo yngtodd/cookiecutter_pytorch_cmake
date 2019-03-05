@@ -7,9 +7,13 @@ This repo is a Cookiecutter template for new Pytorch C++ Projects.
 Usage
 -----
 
-1. Make sure you have `Cookiecutter`_ installed. Find more about cookiecutter with their `docs`_.
-2. Run `cookiecutter https://github.com/yngtodd/cookiecutter_pytorch_cmake` in your Terminal.
-3. Your brand new C++ project should be aviable in your given repo_name.
+Make sure you have `Cookiecutter`_ installed. Find more about cookiecutter with their `docs`_.
+
+Then, kick off your project with the following:
+
+.. code-block:: console
+
+    cookiecutter https://github.com/yngtodd/cookiecutter_pytorch_cmake
 
 Built upon great projects
 -------------------------
