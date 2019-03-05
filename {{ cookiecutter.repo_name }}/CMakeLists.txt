@@ -1,4 +1,4 @@
-# [== {{ cookiecutter.full_name }}. Copyright (C) {{ cookiecutter.year }}. 
+# [== {{ cookiecutter.full_name }}. Copyright (C) {{ cookiecutter.year }}. MIT
 
 
 # [== Project Properties
