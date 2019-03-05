@@ -1,6 +1,8 @@
 #ifndef _MLP_HPP_
 #define _MLP_HPP_
 
+#include <torch/torch.h>
+
 namespace mlp {
 
   // Define a new Module.
@@ -25,6 +27,8 @@ namespace mlp {
     // Use one of many "standard library" modules.
     torch::nn::Linear fc1{nullptr}, fc2{nullptr}, fc3{nullptr};
   };
+
+  void print_parameters(mlp::MLP net);
 
 }
 
