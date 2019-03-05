@@ -1,6 +1,6 @@
-========================
-Cookiecutter_pytorch_cpp 
-========================
+==========================
+cookiecutter_pytorch_cmake
+==========================
 
 This repo is a Cookiecutter template for new Pytorch C++ Projects.
 
