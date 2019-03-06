@@ -1,10 +1,10 @@
 {
-	"full_name": "John Smith",
-	"email": "john@smith.com",
-	"github_username": "johnsmith",
-	"project_name": "BoilerplatePP",
-	"repo_name": "boilerplate_pp",
-	"project_short_description": "BoilerplatePP contains all the boilerplate you need to create an C++ Program.",
-	"year": "2013",
+	"full_name": "Todd Young",
+	"email": "youngmt1@ornl.gov",
+	"github_username": "yngtodd",
+	"project_name": "Pytorch++",
+	"repo_name": "torch_pp",
+	"project_short_description": "Started kit for Pytorch C++ libraries.",
+	"year": "2019",
 	"version": "0.1.0"
 }
