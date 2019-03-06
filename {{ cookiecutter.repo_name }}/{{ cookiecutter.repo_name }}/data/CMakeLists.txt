@@ -6,8 +6,8 @@ project(data)
 
 add_library(
     data_lib
-    include/data.hpp
-    src/data.cpp
+    include/mnist.hpp
+    src/mnist.cpp
 )
 
 
