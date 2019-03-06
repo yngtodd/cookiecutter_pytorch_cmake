@@ -4,8 +4,8 @@
 namespace mlp {
 
   // Define a new Module.
-  struct MLPNet : torch::nn::Module {
-    MLPNet() {
+  struct MLP : torch::nn::Module {
+    MLP() {
       // Construct and register three Linear submodules.
       fc1 = register_module("fc1", torch::nn::Linear(784, 64));
       fc2 = register_module("fc2", torch::nn::Linear(64, 32));
